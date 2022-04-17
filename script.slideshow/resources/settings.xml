@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <setting id="slideshow_path" label="30001" type="folder" default="/storage/pictures"/>
+    <setting id="slideshow_random" label="30002" type="bool"  default="false"/>
+</settings>
